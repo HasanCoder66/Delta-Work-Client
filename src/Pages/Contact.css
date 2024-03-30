@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+
+.navContainer {
+  /* From https://css.glass */
+  /* background: rgba(174, 244, 238, 0.14); */
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7.4px);
+  -webkit-backdrop-filter: blur(7.4px);
+  border: 1px solid rgba(174, 244, 238, 0.7);
+}
+
+
+
+
+.slick-prev,
+.slick-next {
+  color: black; /* Change color as per your requirement */
+}
